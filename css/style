@@ -1,15 +1,9 @@
 .nav {
-
+  list-style-type: none;
+  text-align: center;
 }
 
-#icebackground {
-  background-image: url("../images/ice.jpg");
+body {
+  background-image: url("../images/ombre.jpg");
 }
 
-#resumebackground {
-  background-image: url("../images/grey.jpeg");
-}
-
-#flagbackground {
-  background-image: url("../images/field.jpg");
-}
