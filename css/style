@@ -1,3 +1,7 @@
 .nav {
 
 }
+
+#icebackground {
+  background-image: url("../images/ice.jpg");
+}
