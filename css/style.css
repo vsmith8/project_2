@@ -1,0 +1,71 @@
+body
+{
+  background-image: url("../images/pinkbackground.jpeg");
+}
+td, th {
+  border: 3px solid;
+  }
+h1 {
+  color: red;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 36px;
+}
+tr {
+  background-color: plum;
+  text-align: center;
+}
+td {
+  font-size: 2em;
+  font-family: serif;
+}
+.image-earth {
+  width: 150px;
+  height: 150px;
+}
+.image-mars {
+  width: 150px;
+  height: 150px;
+}
+.image-saturn {
+  width: 150px;
+  height: 150px;
+} 
+.image-jupiter {
+  width: 150px;
+  height: 150px;
+} 
+.row1 {
+  color: paleturquoise;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+} 
+.row2 {
+  color: rgb(0,100,100);
+}
+.row3 {
+  color: gold;
+}
+.row4 {
+  color: white;
+}
+.row5 {
+  color: indigo;
+}
+.row6 {
+  color: olive;
+}
+.row7 {
+  color: teal;
+}
+.row8 {
+  color: blueviolet;
+}
+.row9 {
+  color: magenta;
+}
+.middle {
+  margin-left: auto;
+  margin-right: auto;
+}
+  
