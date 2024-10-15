@@ -7,3 +7,9 @@ body {
   background-image: url("../images/ombre.jpg");
 }
 
+h1 {
+  color: paleturquoise;
+  font-family: "papyrus", fantasy;
+  font-size: 4em;
+}
+
