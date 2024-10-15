@@ -5,3 +5,11 @@
 #icebackground {
   background-image: url("../images/ice.jpg");
 }
+
+#resumebackground {
+  background-image: url("../images/grey.jpeg");
+}
+
+#flagbackground {
+  background-image: url("../images/field.jpg");
+}
