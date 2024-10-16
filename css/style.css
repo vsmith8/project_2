@@ -14,6 +14,7 @@ body {
   font-family: monospace;
   font-size: 4em;
   text-align: center;
+  background-color: gainsboro;
 }
 .pics {
   border: 5px solid #e87be4; 
@@ -24,40 +25,49 @@ body {
   font-family: "papyrus", fantasy;
   font-size: 4em;
   text-align: center;
+  background-color: cyan;
 }
 .h1f {
   color: darkgreen;
   font-family: "copperplate", sans-serif;
   font-size: 4em;
   text-align: center;
+  background-color: lightgreen;
 }
 .rtext {
   text-align: center;
   font-family: monospace;
   list-style-type: none;
+  color: dimgray;
 }
 .rtitles {
   text-align: center;
   font-family: monospace;
   font-size: 2em;
+  color: dimgray;
 }
 .ptitle {
   text-align: center;
   font-family: "papyrus", fantasy;
   font-size: 2em;
+  color: blue;
 }
 .ptext {
   text-align: center;
   font-family: "papyrus", fantasy;
   list-style-type: none;
+  font-size: 1em;
+  color: blue;
 }
 .ftitles {
   text-align: center;
   font-family: "copperplate", sans-serif;
   font-size: 2em;
+  color: darkgreen;
 }
-.ptext {
+.ftext {
   text-align: center;
   font-family: "copperplate", sans-serif;
   list-style-type: none;
+  color: darkgreen;
 }
