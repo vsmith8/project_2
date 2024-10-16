@@ -16,9 +16,8 @@ body {
   text-align: center;
 }
 .pics {
-  border: 3px solid #e87be4; 
-  margin-left: auto;
-  margin-right: auto;
+  border: 5px solid #e87be4; 
+  margin: auto;
 }
 .h1p {
   color: blue;
@@ -35,9 +34,20 @@ body {
 .rtext {
   text-align: center;
   font-family: monospace;
+  list-style-type: none;
 }
 .rtitles {
   text-align: center;
   font-family: monospace;
   font-size: 2em;
+}
+.ptitle {
+  text-align: center;
+  font-family: "papyrus", fantasy;
+  font-size: 2em;
+}
+.ptext {
+  text-align: center;
+  font-family: "papyrus", fantasy;
+  list-style-type: none;
 }
