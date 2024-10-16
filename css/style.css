@@ -18,14 +18,14 @@ body {
 }
 .pics {
   border: 5px solid #e87be4; 
-  margin: auto;
+  text-align: center;
 }
 .h1p {
   color: blue;
   font-family: "papyrus", fantasy;
   font-size: 4em;
   text-align: center;
-  background-color: cyan;
+  background-color: lightblue;
 }
 .h1f {
   color: darkgreen;
