@@ -13,17 +13,31 @@ body {
   color: dimgray;
   font-family: monospace;
   font-size: 4em;
+  text-align: center;
 }
 .pics {
   border: 3px solid #e87be4; 
+  margin-left: auto;
+  margin-right: auto;
 }
 .h1p {
-  color: paleturquoise;
+  color: blue;
   font-family: "papyrus", fantasy;
   font-size: 4em;
+  text-align: center;
 }
 .h1f {
   color: darkgreen;
   font-family: "copperplate", sans-serif;
   font-size: 4em;
+  text-align: center;
+}
+.rtext {
+  text-align: center;
+  font-family: monospace;
+}
+.rtitles {
+  text-align: center;
+  font-family: monospace;
+  font-size: 2em;
 }
