@@ -20,7 +20,9 @@ body {
 }
 .pics {
   border: 5px solid #e87be4; 
-  text-align: center;
+  width: 40%;
+  margin: auto;
+  display: block;
 }
 .h1p {
   color: blue;
@@ -32,7 +34,7 @@ body {
 .h1f {
   color: darkgreen;
   font-family: "copperplate", sans-serif;
-  font-size: 4em;
+  font-size: 40px;
   text-align: center;
   background-color: lightgreen;
 }
@@ -51,14 +53,14 @@ body {
 .ptitle {
   text-align: center;
   font-family: "papyrus", fantasy;
-  font-size: 2em;
+  font-size: 30px;
   color: blue;
 }
 .ptext {
   text-align: center;
   font-family: "papyrus", fantasy;
   list-style-type: none;
-  font-size: 1em;
+  font-size: 15px;
   color: blue;
 }
 .ftitles {
