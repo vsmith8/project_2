@@ -4,6 +4,7 @@
   display: flex;
   justify-content: center;
   unicode-bidi: isolate;
+  padding: 15px:
 }
 body {
   background-image: url("../images/ombre.jpg");
@@ -14,7 +15,7 @@ body {
   font-size: 4em;
 }
 .pics {
-  border: 2px solid #555; 
+  border: 3px solid #e87be4; 
 }
 .h1p {
   color: paleturquoise;
