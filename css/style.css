@@ -11,5 +11,9 @@ body {
 h1 {
   color: dimgray;
   font-family: monospace;
-  font-size: 2em;
+  font-size: 4em;
+}
+
+.pics {
+  border: 2px solid #555; 
 }
