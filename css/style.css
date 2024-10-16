@@ -2,7 +2,7 @@
   list-style-type: none;
   text-align: center;
   display: block;
-  justify-content: center;
+  float: left;
   text-decoration: none;
   padding: 15px;
   background-color: lavenderblush;
