@@ -27,14 +27,14 @@ body {
 .h1p {
   color: blue;
   font-family: "papyrus", fantasy;
-  font-size: 4em;
+  font-size: 70px;
   text-align: center;
   background-color: lightblue;
 }
 .h1f {
   color: darkgreen;
   font-family: "copperplate", sans-serif;
-  font-size: 40px;
+  font-size: 4em;
   text-align: center;
   background-color: lightgreen;
 }
