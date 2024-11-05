@@ -4,7 +4,8 @@ nav#navigation ul {
   margin: 0;
 }
 nav#navigation ul li {
-  margin: 0 15px;
+  margin-right: 70px;
+  margin-left: 70px;
   display: inline-block;
 } 
 nav#navigation ul li a{
