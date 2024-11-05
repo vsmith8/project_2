@@ -5,6 +5,7 @@ nav#navigation ul {
 }
 nav#navigation ul li {
   margin: 0 15px;
+  display: inline-block;
 } 
 nav#navigation ul li a{
   display: block;
