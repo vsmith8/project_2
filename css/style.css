@@ -27,6 +27,7 @@ body {
   background-color: gainsboro;
 }
 .pics {
+  float: none;
   border: 5px solid #e87be4; 
   width: 30%;
   margin: auto;
@@ -53,12 +54,14 @@ body {
   color: dimgray;
 }
 .rtitles {
+  position: relative;
   text-align: center;
   font-family: monospace;
   font-size: 2em;
   color: dimgray;
 }
 .ptitle {
+  position: relative;
   text-align: center;
   font-family: "papyrus", fantasy;
   font-size: 30px;
@@ -72,6 +75,7 @@ body {
   color: blue;
 }
 .ftitles {
+  position: relative;
   text-align: center;
   font-family: "copperplate", serif;
   font-size: 2em;
