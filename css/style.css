@@ -40,7 +40,7 @@ body {
 }
 .h1f {
   color: darkgreen;
-  font-family: "copperplate", sans-serif;
+  font-family: "copperplate", serif;
   font-size: 4em;
   text-align: center;
   background-color: lightgreen;
@@ -72,13 +72,13 @@ body {
 }
 .ftitles {
   text-align: center;
-  font-family: "copperplate", sans-serif;
+  font-family: "copperplate", serif;
   font-size: 2em;
   color: darkgreen;
 }
 .ftext {
   text-align: center;
-  font-family: "copperplate", sans-serif;
+  font-family: "copperplate", serif;
   list-style-type: none;
   color: darkgreen;
 }
