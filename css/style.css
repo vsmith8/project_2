@@ -19,7 +19,6 @@ body {
   background-image: url("../images/ombre.jpg");
 }
 .h1r {
-  float: left;
   color: dimgray;
   font-family: monospace;
   font-size: 3.75em;
@@ -27,13 +26,13 @@ body {
   background-color: gainsboro;
 }
 .pics {
+  float: left;
   border: 5px solid #e87be4; 
   width: 30%;
   margin: auto;
   display: block;
 }
 .h1p {
-  float: left;
   color: blue;
   font-family: "papyrus", fantasy;
   font-size: 70px;
@@ -41,7 +40,6 @@ body {
   background-color: lightblue;
 }
 .h1f {
-  float: left;
   color: darkgreen;
   font-family: "copperplate", sans-serif;
   font-size: 4em;
