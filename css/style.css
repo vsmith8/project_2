@@ -2,6 +2,8 @@ nav#navigation ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  position: relative;
+  left: 50%;
 }
 nav#navigation ul li {
   text-align: center;
